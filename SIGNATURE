@@ -1,0 +1,56 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 394fe28dbf3f3e858e7412b3bf67ce2e0b943928 Changes
+SHA1 1c9dd2cf98877f742eb11a485b428fd52f09326b MANIFEST
+SHA1 6a7f69e2c58ce48e8a14beb82fa91c3829b21841 META.yml
+SHA1 c76cf82e0b947dceb8e37537824a869b93d65574 Makefile.PL
+SHA1 3b6c485fba1520650ed48a59d9da0351555c867d README
+SHA1 248dabb0dbdd603ecf7374c69e9a51073453e15d inc/Module/AutoInstall.pm
+SHA1 9b5001bfa9cf8607b3b3935284d9253e0391c9f1 inc/Module/Install.pm
+SHA1 4d21888488f7c6a67742343a0be404bb7e1b3e66 inc/Module/Install/AutoInstall.pm
+SHA1 cab0e564f9bdf658535f683aa197157e06d0dcea inc/Module/Install/Base.pm
+SHA1 a1559b5b3b40f68efbbd256f4fef85970891b3ae inc/Module/Install/Can.pm
+SHA1 f15c1ba85f6d52e70c48c64bf0752c90a4ad66f9 inc/Module/Install/Fetch.pm
+SHA1 d44d96acd20793306dd201030c688e2a7d3083ee inc/Module/Install/Include.pm
+SHA1 eb48df8bafd07c6a862126d9b274df42b4395742 inc/Module/Install/Makefile.pm
+SHA1 95c73873c6c3cb7024614c225c53863e1e90c134 inc/Module/Install/Metadata.pm
+SHA1 6e010ba20a9d0ae23d8d0ff516868c1e571c2d44 inc/Module/Install/RTx.pm
+SHA1 3fdf4c0cffdb1a2e23e5cd26bf95be553f1f9590 inc/Module/Install/RTx/Runtime.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 13c903897bad7f0fdd7871a4a0182ff62dfbefd5 inc/Module/Install/Substitute.pm
+SHA1 f8b2ae3386f6ba26c33408968a953d450842eade inc/Module/Install/Win32.pm
+SHA1 f302bc703d76299cff243e5b44cecd61aac27b76 inc/Module/Install/WriteAll.pm
+SHA1 4e09b598c2626e08cec2bed5e981492fa9e90967 inc/YAML/Tiny.pm
+SHA1 034d0f3a7401dae4be3eee279258181f51a4ad81 inc/unicore/Name.pm
+SHA1 505f91573189c9efe09a9b868aa19f80da6d005d lib/RT/Extension/ExternalStorage.pm
+SHA1 0100aa691c4bd7fc8f88e5efb21794ebc6b7acfb lib/RT/Extension/ExternalStorage/AmazonS3.pm
+SHA1 80fdde41acb444983916d22601ed4c6f660828d6 lib/RT/Extension/ExternalStorage/Backend.pm
+SHA1 e87898e3472c2cab2cc790484fa817aaf43f998c lib/RT/Extension/ExternalStorage/Disk.pm
+SHA1 41d3c706b0581623247e5fb788549277df1a1a98 lib/RT/Extension/ExternalStorage/Dropbox.pm
+SHA1 b2cae53a526108eaba4ccd861ef3f3e26f506ad3 lib/RT/Extension/ExternalStorage/Test.pm
+SHA1 b2cae53a526108eaba4ccd861ef3f3e26f506ad3 lib/RT/Extension/ExternalStorage/Test.pm.in
+SHA1 d78c67d82eeeec8444ad35973aa511c3ebca8bc2 sbin/extract-attachments
+SHA1 b1e280d675691fc83a630c03f618592cc5a716cc sbin/extract-attachments.in
+SHA1 7f805333ae021f7fa5bb2ece20be64999771cb46 t/basic.t
+SHA1 0190346d7072d458c8a10a45c19f86db641dcc48 t/pod.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEARECAAYFAlSJ3BgACgkQMflWJZZAbqD73ACbBIs10z6aeqeByU11xSRp8Xha
+X6EAn3rOggfMF5ySVl0h8E+5snCuY4o2
+=00ys
+-----END PGP SIGNATURE-----
