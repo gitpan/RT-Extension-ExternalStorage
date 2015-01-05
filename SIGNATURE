@@ -14,43 +14,43 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 c5e77b164a80adb03b64756cc4913f38b81e41c2 Changes
+SHA1 54fceda0aee8a1631f24ecdea50b59025f30b88a Changes
 SHA1 1c9dd2cf98877f742eb11a485b428fd52f09326b MANIFEST
-SHA1 1e6d71790d813657d2d824d70da06b3590343ce1 META.yml
+SHA1 fa192c74ccd78c39ba9053306dff8fc3d60c635e META.yml
 SHA1 bfc50fdb7bc22bef8b3266f312390e874e9a1152 Makefile.PL
-SHA1 3b6c485fba1520650ed48a59d9da0351555c867d README
-SHA1 248dabb0dbdd603ecf7374c69e9a51073453e15d inc/Module/AutoInstall.pm
-SHA1 9b5001bfa9cf8607b3b3935284d9253e0391c9f1 inc/Module/Install.pm
-SHA1 4d21888488f7c6a67742343a0be404bb7e1b3e66 inc/Module/Install/AutoInstall.pm
-SHA1 cab0e564f9bdf658535f683aa197157e06d0dcea inc/Module/Install/Base.pm
-SHA1 a1559b5b3b40f68efbbd256f4fef85970891b3ae inc/Module/Install/Can.pm
-SHA1 f15c1ba85f6d52e70c48c64bf0752c90a4ad66f9 inc/Module/Install/Fetch.pm
-SHA1 d44d96acd20793306dd201030c688e2a7d3083ee inc/Module/Install/Include.pm
-SHA1 eb48df8bafd07c6a862126d9b274df42b4395742 inc/Module/Install/Makefile.pm
-SHA1 95c73873c6c3cb7024614c225c53863e1e90c134 inc/Module/Install/Metadata.pm
-SHA1 6e010ba20a9d0ae23d8d0ff516868c1e571c2d44 inc/Module/Install/RTx.pm
+SHA1 f524ea491dfebcd88ce83c7f6fa0a82bdb2d7081 README
+SHA1 10f1ba97180b54e94ab30d9efe4aaa0a70aa1e26 inc/Module/AutoInstall.pm
+SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
+SHA1 b084961275ae4b66a9a0766372b0a08803aa63d1 inc/Module/Install/AutoInstall.pm
+SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
+SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
+SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
+SHA1 bd2183c72617105d0b65f3ef81d013bf4af337d6 inc/Module/Install/Include.pm
+SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
+SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 acbf148a1e6067cc677c89da2bfe1ae4b0b1e01b inc/Module/Install/RTx.pm
 SHA1 3fdf4c0cffdb1a2e23e5cd26bf95be553f1f9590 inc/Module/Install/RTx/Runtime.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
 SHA1 13c903897bad7f0fdd7871a4a0182ff62dfbefd5 inc/Module/Install/Substitute.pm
-SHA1 f8b2ae3386f6ba26c33408968a953d450842eade inc/Module/Install/Win32.pm
-SHA1 f302bc703d76299cff243e5b44cecd61aac27b76 inc/Module/Install/WriteAll.pm
+SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
+SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
 SHA1 4e09b598c2626e08cec2bed5e981492fa9e90967 inc/YAML/Tiny.pm
 SHA1 034d0f3a7401dae4be3eee279258181f51a4ad81 inc/unicore/Name.pm
-SHA1 afebf4401f5416cc2af9d7a70b78b87d61d6e11a lib/RT/Extension/ExternalStorage.pm
-SHA1 0100aa691c4bd7fc8f88e5efb21794ebc6b7acfb lib/RT/Extension/ExternalStorage/AmazonS3.pm
-SHA1 80fdde41acb444983916d22601ed4c6f660828d6 lib/RT/Extension/ExternalStorage/Backend.pm
-SHA1 e87898e3472c2cab2cc790484fa817aaf43f998c lib/RT/Extension/ExternalStorage/Disk.pm
-SHA1 41d3c706b0581623247e5fb788549277df1a1a98 lib/RT/Extension/ExternalStorage/Dropbox.pm
-SHA1 b2cae53a526108eaba4ccd861ef3f3e26f506ad3 lib/RT/Extension/ExternalStorage/Test.pm
-SHA1 b2cae53a526108eaba4ccd861ef3f3e26f506ad3 lib/RT/Extension/ExternalStorage/Test.pm.in
-SHA1 9c90022a58e16ddb44567a724c9e82b3ab385a55 sbin/extract-attachments
-SHA1 57cca9c5e6081e5a850c316b06bd4e29d10d5e90 sbin/extract-attachments.in
+SHA1 b4bf7a10b1d41847a9fef0ae39b3dadf01a4acf7 lib/RT/Extension/ExternalStorage.pm
+SHA1 1b6e470e2ad35397bc783029ec5bfb44100eb552 lib/RT/Extension/ExternalStorage/AmazonS3.pm
+SHA1 528c18bbc2f0ae00b2d3f54dc09730875e6de594 lib/RT/Extension/ExternalStorage/Backend.pm
+SHA1 85687fc9d44fc4b175a4da91ae0f0ccd65a6bb65 lib/RT/Extension/ExternalStorage/Disk.pm
+SHA1 6d08b676742cf40b09f680dbda8889f6aefde84d lib/RT/Extension/ExternalStorage/Dropbox.pm
+SHA1 c2380909388c1e3b1bc0b244dc0fa50d82387e47 lib/RT/Extension/ExternalStorage/Test.pm
+SHA1 c2380909388c1e3b1bc0b244dc0fa50d82387e47 lib/RT/Extension/ExternalStorage/Test.pm.in
+SHA1 b2420131c55b68557943b7c7abde4dd5d65bc58e sbin/extract-attachments
+SHA1 005c9144fe31a881a825470e65781c8b43706057 sbin/extract-attachments.in
 SHA1 7f805333ae021f7fa5bb2ece20be64999771cb46 t/basic.t
 SHA1 0190346d7072d458c8a10a45c19f86db641dcc48 t/pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iEYEARECAAYFAlSTLiMACgkQMflWJZZAbqC2KACgvkRh6n/CUb6ebFUyRcJOLKD6
-T3QAn2X7zTtz7WlTN/3LiqiQ+MrgKKEW
-=NRRu
+iEYEARECAAYFAlSqzG4ACgkQMflWJZZAbqAOWACdGJGO4se+R5CP+3W9j614jFLD
+FWoAn21W/xyB1XOliN0a5LsdL0Od2Qqw
+=zaM5
 -----END PGP SIGNATURE-----
